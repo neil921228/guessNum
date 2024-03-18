@@ -1,3 +1,6 @@
+# 忽略 .idea 目錄
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
